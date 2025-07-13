@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Node modules (if using a build tool like Vite or Parcel)
+node_modules/
+
+# Build output (only if you're not deploying from source)
+dist/
+build/
+
+# Optional: environment variables
+.env
+.env.*
+
+# Optional: backup files or temp
+*.bak
+*.tmp
+*~
+
+# Optional: output from image optimization or conversion tools
+output/
+optimized/
